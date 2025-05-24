@@ -7,7 +7,7 @@ Description: Welcome to Rhythm112! In this rhythm-based game, beat squares synce
 
 Required Modules: pygame, librosa
 
-Run Instructions: The user should run the rhythm112.py file
+Run Instructions: The user should install pygame and librosa, then run the rhythm112.py file
 
 Quick Video Demo:
 
